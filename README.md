@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Jasmin</h1>
-<h3 align="center">A passionate frontend developer from Rangamati Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminch01&label=Profile%20views&color=0e75b6&style=flat" alt="jasminch01" /> </p>
+<h3>A passionate frontend developer from Rangamati Bangladesh</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -15,4 +13,6 @@
 
 ## Current statistics :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasminch01&" alt="jasminch01" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminch01&label=Profile%20views&color=0e75b6&style=flat" alt="jasminch01" /> </p>
 
