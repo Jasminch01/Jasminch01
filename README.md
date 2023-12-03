@@ -10,7 +10,7 @@
 </p>
 
 ##Comfortable with 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nuxtjs,firebase,express,mongodb,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,express,mongodb,tailwind,html,css)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 
