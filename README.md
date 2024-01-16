@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jasmin</h1>
-<h3>A passionate frontend developer from Rangamati, Bangladesh</h3>
+<h3>A passionate MERN stack developer from Rangamati, Bangladesh</h3>
 - 🌱 I’m currently learning **JavaScript**
 
 ## Language and tools :
