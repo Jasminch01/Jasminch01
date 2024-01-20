@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,javascript,react,nextjs,firebase,express,mongodb,nodejs,ai,photoshop,figma)](https://skillicons.dev)
 
 ## Current statistics :
-<p><img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasminch01&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" alt="jasminch01" /></p>
+<p><img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasminch01&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=#0ffe82&dates=6E6E6E" alt="jasminch01" /></p>
 
 ## Contact with me : 
 <p align="left">
