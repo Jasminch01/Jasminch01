@@ -8,7 +8,7 @@
 
 ## Current statistics :
 
-<p><img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasminch01&background=0D1117&sideNums=4CAF50&sideLabels=4CAF50&currStreakNum=4CAF50&dates=6E6E6E&border=4CAF50" alt="jasminch01" /></p>
+<p><img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasminch01&background=0D1117&sideNums=4CAF50&sideLabels=4CAF50&currStreakNum=4CAF50&dates=6E6E6E&border=4CAF50&stroke=4CAF50" alt="jasminch01" /></p>
 
 
 ## Contact with me : 
