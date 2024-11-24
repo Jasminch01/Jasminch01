@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 ## Language and tools :
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,javascript,react,nextjs,redux,firebase,express,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,javascript,typescript,react,nextjs,redux,firebase,express,mongodb,nodejs)](https://skillicons.dev)
 
 ## Current statistics :
 
