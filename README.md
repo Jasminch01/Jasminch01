@@ -3,7 +3,7 @@
 <h3>A passionate MERN stack developer from Rangamati, Bangladesh</h3>
 
 ## Language and tools :
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,javascript,typescript,react,nextjs,redux,firebase,express,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,javascript,typescript,react,nextjs,redux,firebase,express,mongodb,nodejs,supabase,sanity,psql,sql)](https://skillicons.dev)
 
 ## Current statistics :
 
